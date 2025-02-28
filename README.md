@@ -26,9 +26,8 @@ I aim to further develop my skills by:
 
 If you have any questions or just want to chat, feel free to reach out to me on Discord:
 
-[Matze on Discord](https://discord.gg/fDNG9kSXJJ)
+[Matze on Discord](https://discord.gg/9WwV89uZum)
 
 ## Other Links
 
-- GitHub: [Link to your GitHub Profile](https://github.com/yourProfile)
-- Feel free to add any other social media or contact links here.
+- GitHub: [Link to your GitHub Profile]()
